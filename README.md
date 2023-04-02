@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Joanna Jurczuk
+Full Stack Developer
 
 <!--
 **joannajurczuk94/joannajurczuk94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
